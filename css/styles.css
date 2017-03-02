@@ -134,16 +134,19 @@ body {
 }
 
 .breakfast {
-  background-image: url("../images/breakfast.jpg");
+  background-image: url("../assets/foodtop/breakfast.jpg");
   height: 100%;
 }
 
 .lunch {
-  background-image: url("../images/lunch.jpg");
+  background-image: url("../assets/foodtop/lunch.jpg");
 }
 
 .dinner {
-  background-image: url("../images/dinner.jpg");
+  background-image: url("../assets/foodtop/dinner.jpg");
+}
+.jumbotron0{
+  background-image: url("../assets/backgrounds/subscribe.jpg");
 }
 
 .left {
