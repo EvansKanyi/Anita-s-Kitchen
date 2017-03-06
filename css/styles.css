@@ -41,11 +41,12 @@ body {
 }
 
 .barrier {
-  padding: 20px;
-  margin: 20px;
   font-size: 20px;
   border: 10px;
   border-radius: 1px;
+  padding: 20px;
+  margin: 20px;
+
 }
 
 .logo {
@@ -53,7 +54,7 @@ body {
   margin-top: 90px;
 }
 
-.small-logo {
+.logo{
   margin-left: 450px;
   margin-top: 80px;
 }
@@ -68,8 +69,9 @@ body {
 }
 
 .form-group {
-  margin-left: 300px;
-  margin-top: 70px;
+  margin-top: 75px;
+  margin-left: 270px;
+
 }
 
 .square {
